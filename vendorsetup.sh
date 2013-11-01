@@ -1,1 +1,1 @@
-add_lunch_combo cm_xt1056-userdebug
+add_lunch_combo full_xt1056-userdebug
